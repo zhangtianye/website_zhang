@@ -1,0 +1,2 @@
+usage: run command line  "python urls.py" or "python urls.py http://0.0.0.0:port" 
+
